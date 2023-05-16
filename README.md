@@ -1,1 +1,1 @@
-# [Deup Docs](https://docs.deup.io)
+# [Xlist](https://xlist.site)
