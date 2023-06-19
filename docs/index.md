@@ -5,7 +5,7 @@ hide:
 
 # 介绍
 
-[![](assets/images/app-store-badge.png){ width="135" }](https://apps.apple.com/cn/app/id6448833200){target=_blank} [![](assets/images/android-apk-badge.png){ width="135" }](https://github.com/xlist-io/xlist/releases){target=_blank}
+[![](assets/images/app-store-badge.png){ width="135" }](https://apps.apple.com/cn/app/id6448833200){target=_blank} [![](assets/images/google-play-badge.png){ width="135" }](https://play.google.com/store/apps/details?id=io.xlist){target=_blank} [![](assets/images/android-apk-badge.png){ width="135" }](https://github.com/xlist-io/xlist/releases){target=_blank}
 
 Xlist 是一个 [Alist](https://alist.nn.ci/zh){target=_blank} 客户端，你可以在这里配置多个 [Alist](https://alist.nn.ci/zh){target=_blank} 服务器进行文件管理和预览，支持多种视频格式和文档格式的在线预览。
 
